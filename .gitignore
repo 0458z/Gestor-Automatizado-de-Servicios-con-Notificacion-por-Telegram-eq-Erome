@@ -1,0 +1,14 @@
+# Entorno virtual
+myenv/
+
+# Archivos de Python generados
+__pycache__/
+*.pyc
+
+# Archivos de respaldo y logs
+*.log
+*.tar.gz
+backups/
+
+# Variables de entorno (si usas .env para ocultar tokens)
+.env
